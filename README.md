@@ -8,6 +8,7 @@ I am a programmer who exceeds the expected, puts in the extra mile. I enjoy prog
 - Fanshawe Hackathon | 1st Place
 
 ### My Tech Stack
-- React/Tailwind
+- React/Tailwind ![React-icon svg](https://github.com/user-attachments/assets/4859ca35-d88e-4fed-aa04-55dcf81e8a6d)
 - ExpressJS/Flask/ASP.NET
 - Sqlite3/SQL Server
+ 
