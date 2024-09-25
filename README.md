@@ -8,7 +8,7 @@ I am a programmer who exceeds the expected, puts in the extra mile. I enjoy prog
 - Fanshawe Hackathon | 1st Place
 
 ### My Tech Stack
-![React](https://github.com/user-attachments/assets/5f746a78-2b61-4a69-9830-be681030069e | width=50)
+![React](https://github.com/user-attachments/assets/5f746a78-2b61-4a69-9830-be681030069e = 250x)
 
 - React/Tailwind 
 - ExpressJS/Flask/ASP.NET
