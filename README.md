@@ -8,4 +8,4 @@ I am a programmer who exceeds the expected, puts in the extra mile. I enjoy prog
 - Fanshawe Hackathon | 1st Place
 
 ### My Tech Stack
-![Me at hackathon]: (https://clarkmiller.ca/static/media/hackathon.2634228d11257d80c166.jpg "Hackathon")
+![Me at hackathon](https://clarkmiller.ca/static/media/hackathon.2634228d11257d80c166.jpg "Hackathon")
