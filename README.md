@@ -1,8 +1,8 @@
 ## About Me
-I am a programmer who exceeds the expected, puts in the extra mile. I enjoy programming very much and if you see my git activity, I do it on a daily basis, and push myself to complete projects that are useful to me. I see a need, I meet it in a way that all parties get out happy.
+I am a programmer who exceeds expectations, and puts in the extra mile. I enjoy programming very much and if you see my git activity, I do it daily and push myself to complete useful projects. I see a need, I meet it in a way that all parties get out happy.
 
 ### Education
-- Computer Programming and Analyst | 4.1 GPA
+- <img src="https://github.com/user-attachments/assets/d66ac1bf-7981-4ddd-b298-daf91f1b181d" width="48"> Fanshawe College | Computer Programming and Analyst | 4.1 GPA  
 
 ### Competitions
 - Fanshawe Hackathon | 1st Place
