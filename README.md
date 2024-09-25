@@ -16,4 +16,4 @@ I am a programmer who exceeds the expected, puts in the extra mile. I enjoy prog
 <img src="https://github.com/user-attachments/assets/b1090269-e6fe-43a2-bbae-9468b6154151" width="48">
 <br />
 <img src="https://github.com/user-attachments/assets/bc817b9e-f73d-4141-9b35-050c6c7fffc0" width="90">
-<img src="https://github.com/user-attachments/assets/842215db-8342-45e9-a397-e2b9baed5600" width="90">
+<img src="https://github.com/user-attachments/assets/842215db-8342-45e9-a397-e2b9baed5600" width="115">
