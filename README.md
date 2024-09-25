@@ -11,6 +11,8 @@ I am a programmer who exceeds the expected, puts in the extra mile. I enjoy prog
 <img src="https://github.com/user-attachments/assets/5f746a78-2b61-4a69-9830-be681030069e" width="48">
 <img src="https://github.com/user-attachments/assets/1f0bfd68-a8f3-4e6a-9ce5-ae1ac625ab94" width="48">
 <br />
+<img src="https://github.com/user-attachments/assets/c062bab5-9b4c-4f57-b1f5-a427108baa75" width="48">
+
 - ExpressJS/Flask/ASP.NET
 - Sqlite3/SQL Server
  
