@@ -1,11 +1,12 @@
 ## About Me
-I am a programmer who exceeds expectations, and puts in the extra mile. I enjoy programming very much and if you see my git activity, I do it daily and push myself to complete useful projects. I see a need, I meet it in a way that all parties get out happy.
+I am a back-end developer with skills in React to match. This is what I live for, I plan on furthering my education and getting my Masters.
 
 ### Education
 - <img src="https://github.com/user-attachments/assets/d66ac1bf-7981-4ddd-b298-daf91f1b181d" width="16"> Fanshawe College | Computer Programming and Analyst | 4.1 GPA  
 
 ### Competitions
 - Fanshawe Hackathon | 1st Place
+- ICPC NA Regionals 2024
 
 ### My Tech Stack
 <img src="https://github.com/user-attachments/assets/5f746a78-2b61-4a69-9830-be681030069e" width="48">
