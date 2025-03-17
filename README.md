@@ -6,6 +6,7 @@ I am a back-end developer with skills in React to match. This is what I live for
 
 ### Competitions
 - Fanshawe Hackathon | 1st Place
+- UdemHacks 2025 | Best Beginner
 - ICPC NA Regionals 2024
 
 ### My Tech Stack
