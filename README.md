@@ -2,7 +2,7 @@
 I am a back-end developer with skills in React to match. This is what I live for, I plan on furthering my education and getting my Masters.
 
 ### Education
-- <img src="https://github.com/user-attachments/assets/d66ac1bf-7981-4ddd-b298-daf91f1b181d" width="16"> Fanshawe College | Computer Programming and Analyst | 4.1 GPA  
+- <img src="https://github.com/user-attachments/assets/d66ac1bf-7981-4ddd-b298-daf91f1b181d" width="16"> Fanshawe College | Computer Programming and Analyst | 4.1 GPA | Deans Honour roll * 3
 
 ### Competitions
 - Fanshawe Hackathon | 1st Place
