@@ -20,6 +20,8 @@ I'm a back-end developer with React skills. I love what I do and plan to further
 <img src="https://github.com/user-attachments/assets/bc817b9e-f73d-4141-9b35-050c6c7fffc0" width="90">
 <img src="https://github.com/user-attachments/assets/ba8c72ff-d78c-4480-9660-6a900930d865" width="115">
 
+## Languages: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
  ## Github Analytics:
   ![Top Langanguages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&username=DevClarkMiller)
   <p>
