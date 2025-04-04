@@ -19,3 +19,9 @@ I'm a back-end developer with React skills. I love what I do and plan to further
 <br />
 <img src="https://github.com/user-attachments/assets/bc817b9e-f73d-4141-9b35-050c6c7fffc0" width="90">
 <img src="https://github.com/user-attachments/assets/ba8c72ff-d78c-4480-9660-6a900930d865" width="115">
+
+ ## Github Analytics:
+  ![Top Langanguages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&username=DevClarkMiller)
+  <p>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevClarkMiller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </p>
