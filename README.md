@@ -1,8 +1,8 @@
 ## About Me
-I'm a back-end developer with React skills. I love what I do and plan to further my education by earning a Master's degree.
+Multi talented Engineer, primary focuses are on Fullstack, DevOps, Embedded, and Project Management.
 
 ### Education
-- <img src="https://github.com/user-attachments/assets/d66ac1bf-7981-4ddd-b298-daf91f1b181d" width="16"> Fanshawe College | Computer Programming and Analyst | 4.1 GPA | 4th Term | Deans Honour Roll 3 semesters in a row
+- <img src="https://github.com/user-attachments/assets/d66ac1bf-7981-4ddd-b298-daf91f1b181d" width="16"> Fanshawe College | Computer Programming and Analyst | 4.1 GPA | 4th Term | Deans Honour Roll every Semester
 
 ### Competitions
 - Fanshawe Hackathon | 1st Place
